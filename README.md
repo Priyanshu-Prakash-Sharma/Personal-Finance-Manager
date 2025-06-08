@@ -35,7 +35,7 @@ This app was completely developed by me as part of my academic in-house project 
 
 ## 📦 APK Download
 
-➡️ [Click here to download the latest APK](https://github.com/yourusername/yourrepo/releases/latest)
+➡️ [Click here to download the latest APK](https://github.com/Priyanshu-Prakash-Sharma/Personal-Finance-Manager/releases/latest)
 
 > The app runs on Android 7.0 (Nougat) and above.
 
@@ -51,5 +51,20 @@ This app was completely developed by me as part of my academic in-house project 
 
 ---
 
-## 📁 Project Structure
+---
+
+## 👨‍💻 Developer
+
+**Priyanshu Prakash Sharma**  
+Bachelor of Computer Applications (BCA)  
+Teerthanker Mahaveer University, Moradabad
+
+---
+
+## 📄 License
+
+This project is created as part of a university academic submission and is not licensed for commercial use. Contact the developer for collaboration or reuse.
+
+---
+
 
