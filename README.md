@@ -20,10 +20,10 @@ This app was completely developed by me as part of my academic in-house project 
 ## 📸 Screenshots
 
 ### ➕ Add Income Screen
-![Add Income](screenshots/income.jpg)
+![Add Income](screenshots/incomePage.jpg)
 
 ### ➖ Add Expense Screen
-![Add Expense](screenshots/expense.jpg)
+![Add Expense](screenshots/expensePage.jpg)
 
 ### 🏠 Dashboard with Transaction List
 ![Dashboard](screenshots/dashboard.jpg)
