@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Background Color -->
+    <item android:drawable="@color/white" />
+
+    <!-- Icon -->
+    <item
+        android:width="100dp"
+        android:height="100dp"
+        android:gravity="center"
+        >
+        <bitmap android:src="@drawable/your_splash_icon" />
+    </item>
+
+    <!-- Text -->
+    <item
+        android:gravity="center"
+        android:top="100dp">
+        <bitmap>
+            <layout xmlns:android="http://schemas.android.com/apk/res/android">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Personal Expense Manager"
+                    android:textColor="@color/black"
+                    android:textSize="20sp"
+                    android:textStyle="bold"
+                    android:gravity="center"
+                    />
+            </layout>
+        </bitmap>
+    </item>
+
+</layer-list>
