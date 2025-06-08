@@ -26,7 +26,7 @@ This app was completely developed by me as part of my academic in-house project 
 ![Add Expense](screenshots/expensePage.jpg)
 
 ### 🏠 Dashboard with Transaction List
-![Dashboard](screenshots/dashboard.jpg)
+![Dashboard](screenshots/dashboard.jpeg)
 
 > 📌 *To use these images, upload `income.jpg`, `expense.jpg`, and `dashboard.jpg` inside a `screenshots/` folder in your repo.*
 
