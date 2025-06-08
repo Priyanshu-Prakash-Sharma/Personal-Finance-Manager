@@ -1,35 +1,34 @@
 # 📱 Personal Finance Manager
 
-**Personal Finance Manager** is a lightweight, offline Android application built using **Kotlin**, **XML**, and **Room Database (SQLite)**. This app is designed to help users easily track their day-to-day income and expenses without needing internet access.
+**Personal Finance Manager** is a fully offline Android application developed using **Kotlin**, **XML**, and **Room Database (SQLite)**. It is designed to help users track their day-to-day financial activities including income and expenses, without requiring internet access.
 
-This project was completely developed by me as part of my academic journey, and it's a demonstration of clean code, Android architecture, and user-focused design.
+This app was completely developed by me as part of my academic in-house project at Teerthanker Mahaveer University, Moradabad.
 
 ---
 
 ## 🚀 Features
 
-- ✅ Add new **Income** or **Expense** entries
-- ✅ Select from predefined categories (like Food, Rent, Salary, Shopping, etc.)
-- ✅ Attach short notes or descriptions to each transaction
-- ✅ View total **Income**, **Expenses**, and current **Balance** on the dashboard
-- ✅ **Offline only** – all data stored locally using **Room database**
-- ✅ Clean, intuitive UI for fast input and tracking
+- Add new **Income** and **Expense** entries
+- Select predefined categories (Salary, Food, Rent, etc.)
+- Attach short notes to describe each transaction
+- View total **Income**, **Expenses**, and current **Balance** on the dashboard
+- Data stored locally using **Room (SQLite)** – no internet required
+- Lightweight, fast, and simple interface
 
 ---
 
 ## 📸 Screenshots
 
-> (Upload your images to the repo or Releases, and then use these sample lines below)
+### ➕ Add Income Screen
+![Add Income](screenshots/income.jpg)
 
-| Add Income Screen | Add Expense Screen |
-|------------------|--------------------|
-| ![Income](screenshots/income.jpg) | ![Expense](screenshots/expense.jpg) |
+### ➖ Add Expense Screen
+![Add Expense](screenshots/expense.jpg)
 
-| Dashboard | Transaction List |
-|-----------|------------------|
-| ![Dashboard](screenshots/dashboard.jpg) | ![List](screenshots/transactions.jpg) |
+### 🏠 Dashboard with Transaction List
+![Dashboard](screenshots/dashboard.jpg)
 
-> _Note: Replace image paths after uploading to `/screenshots/` folder in your repo._
+> 📌 *To use these images, upload `income.jpg`, `expense.jpg`, and `dashboard.jpg` inside a `screenshots/` folder in your repo.*
 
 ---
 
@@ -37,19 +36,19 @@ This project was completely developed by me as part of my academic journey, and 
 
 ➡️ [Click here to download the latest APK](https://github.com/yourusername/yourrepo/releases/latest)
 
-> The app runs on **Android 7.0 and above**.
+> The app runs on Android 7.0 (Nougat) and above.
 
 ---
 
 ## 🛠️ Built With
 
-- **Language:** Kotlin  
-- **Database:** Room (SQLite)  
-- **UI:** XML Layouts  
-- **IDE:** Android Studio  
-- **Architecture:** MVVM (Model-View-ViewModel)
+- **Language**: Kotlin  
+- **UI**: XML  
+- **Database**: Room (SQLite)  
+- **IDE**: Android Studio  
+- **Architecture**: MVVM (Model-View-ViewModel)
 
 ---
 
-## 📁 Folder Structure
+## 📁 Project Structure
 
