@@ -20,13 +20,14 @@ This app was completely developed by me as part of my academic in-house project 
 ## 📸 Screenshots
 
 ### 🏠 Dashboard with Transaction List
-![Dashboard](screenshots/dashboard.jpeg)
+<img src="screenshots/dashboard.jpeg" width="300" />
 
 ### ➕ Add Income Screen
-![Add Income](screenshots/incomePage.jpeg)
+<img src="screenshots/incomePage.jpeg" width="300" />
 
 ### ➖ Add Expense Screen
-![Add Expense](screenshots/expensePage.jpeg)
+<img src="screenshots/expensePage.jpeg" width="300" />
+
 
 
 > 📌 *To use these images, upload `income.jpg`, `expense.jpg`, and `dashboard.jpg` inside a `screenshots/` folder in your repo.*
